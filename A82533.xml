@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another message sent to the Kings Majesty at Yorke, from both Houses of Parliament, March 28. 1642. With His Majesties auswer [sic] concerning the same, dated March 31. 1642. Sabbathi, 2. Aprilis, 1642. Ordered by the Lords in Parliament, that this message be published and printed. Jo. Browne Cler. Par liament [sic]. Whereunto is added the petition of the citizens of Yorke delivered to His Majesty by the High Sheriffe. Also an order from the House of Commons to the sheriffes of every county for the collection of the foure subsidies. With the new bill for tonnage and poundage passed by both Houses of Parliament. H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82533</idno><idno type="EEBO-CITATION">99871313</idno>
+  <idno type="VID">156593</idno>
+  <idno type="EEBO-PROQUEST">2240942163</idno>
+  
+            <idno type="STC">Wing E1217A</idno>
+            <idno type="STC">Thomason E143_2</idno>
+            <idno type="STC">ESTC R212737</idno>
+            <idno type="PROQUEST">99871313</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871313e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another message sent to the Kings Majesty at Yorke, from both Houses of Parliament, March 28. 1642. With His Majesties auswer [sic] concerning the same, dated March 31. 1642. Sabbathi, 2. Aprilis, 1642. Ordered by the Lords in Parliament, that this message be published and printed. Jo. Browne Cler. Par liament [sic]. Whereunto is added the petition of the citizens of Yorke delivered to His Majesty by the High Sheriffe. Also an order from the House of Commons to the sheriffes of every county for the collection of the foure subsidies. With the new bill for tonnage and poundage passed by both Houses of Parliament. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>A variant has "Answer" instead of "Auswer" in line 6, and "Parliament" instead of "Par liament" in line 11.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156593:1"/>
+            <p>ANOTHER MESSAGE Sent to the Kings Majesty at <hi>Yorke,</hi> from both Houses of Parliament, <hi>March</hi> 28. 1642.</p>
+            <p>With His Majesties Answer concerning the same, dated <hi>March</hi> 31. 1642.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Sabbathi,</hi> 2. <hi>Aprilis,</hi> 1642.</p>
+                        <p>Ordered by the Lords in Parliament, that this Message be published and Printed.</p>
+                        <p>
+                           <hi>Jo. Browne Cler. Parliament.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereunto is added the Petition of the Citizens of <hi>Yorke</hi> delivered to his Majesty by the High Sheriffe.</p>
+            <p>Also an Order from the House of Commons to the Sheriffes of every County for the Col<g ref="char:EOLhyphen"/>lection of the foure Subsidies.</p>
+            <p>With the New Bill for Tonnage and Poundage passed by both Houses of Parliament.</p>
+            <p>
+               <hi>H. Elsynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156593:2"/>
+            <pb facs="tcp:156593:2"/>
+            <opener>
+               <salute>May it please your Majestie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in this present Parliament assembled, having found it ne<g ref="char:EOLhyphen"/>cessary to provide, and set to Sea, a strong and powerfull Navy for the defence of this Kingdome, against forraigne force, and for the security of your other dominions, the charge whereof, is to be borne by the Common-Wealth, and taking notice of the indisposition of the Lord Admirall, which disables him at this time for commanding the Fleet in his owne person, did thereupon recommend unto his Lordships the Earle of <hi>Warwick</hi> (a person of such quality and ability) as in whom they might best confide, to supply his Loreships Roome for this im<g ref="char:EOLhyphen"/>ployment and understanding that your Majesty hath since signified your pleasure concerning that Com<g ref="char:EOLhyphen"/>mand, for Sir <hi>Iohn Pennington,</hi> we doe hold it our du<g ref="char:EOLhyphen"/>ty to represent unto your Majesty, the great danger &amp; mischiefe the Common-Wealth is like to sustain by such Interruption.</p>
+            <p>And therefore doe humbly beseech your Majesty that the Noble person recommended by both Houses of Parliament for this service, may no longer be de<g ref="char:EOLhyphen"/>tained from it, out of any particular respect to any o<g ref="char:EOLhyphen"/>ther person whatsoever.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156593:3"/>
+            <head>To Our Right trusty and welbeloved Coun<g ref="char:EOLhyphen"/>sellor, <hi>Edward</hi> Lord <hi>Littleton,</hi> Keeper of Our Great Seale of <hi>England.</hi>
+            </head>
+            <p>RIght trusty and welbeloved Counsellour, We greet you well, We wonder both at the forme and matter of that inclosed Paper yee sent Us, (in the name of both Houses of Parliament, in yours of the 28. of <hi>March</hi>) it being neither by way of Peti<g ref="char:EOLhyphen"/>tion, Declaration, or Letter, and for the matter, We believe it is the first time that the Houses of Parlia<g ref="char:EOLhyphen"/>ment, have taken upon them the nomination or Re<g ref="char:EOLhyphen"/>commendation of the chiefe-Sea Commanders, but it addes to the wonder, that Sir <hi>Iohn Pennington</hi> being already appointed by Us for that service, upon the Recommendation of our Admirall, (which is so well knowne that none can be ignorant of it) and no fault so much as alledged against him, another should bee re<g ref="char:EOLhyphen"/>commended to us: Therefore Our Resolution upon this poynt is, that We will not alter him, whom We have already appointed to command this yeares Fleet, whose every way sufficiency is so universally knowne, the which We are confident our Admirall (if there shall be occasion) will make most evident (against whose Testimony We suppose our Parliament will not except &amp; though there were yet none appointed, or the said Sir <hi>Iohn</hi> (through-some accident) not able to performe the service, yet the men of that Professi<g ref="char:EOLhyphen"/>on, are so well known to Us, (besides many other Rea<g ref="char:EOLhyphen"/>sons) that (our Admirall excepted because of his place)
+<pb facs="tcp:156593:3"/>Recommendations of that kind, would not be accep<g ref="char:EOLhyphen"/>table to Us.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at our Court at</hi> Yorke, <date>
+                     <hi>the last of</hi> March, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="orders">
+            <head>An Order from the House of Commons un<g ref="char:EOLhyphen"/>to the Sheriffes of each County respectively, for their true Collection of the Foure Subsidies, and the other two Subsidies to be payd accordingly.</head>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Veneris</hi> 25. <hi>Martij.</hi> 1642.</date>
+                  </dateline>
+               </opener>
+               <head>It is this day Ordered upon the Question by the House of Commons.</head>
+               <p>THat the Knights and Burgesses of every Coun<g ref="char:EOLhyphen"/>ty, be injoyned to write unto the Sheriffes of their respective Counties, That they warne all Collectors of the foure Subsidies, who have not yet perfected their Accompts, that they come and perfect their Accompts by the beginning of the next Terme. And that all other Collectors of the two last Subsi<g ref="char:EOLhyphen"/>dies make their Accompts also, by the latter end of the next Terme, As they will Answer their neglect there<g ref="char:EOLhyphen"/>in to this House.</p>
+               <closer>
+                  <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>
+                  <hi>Die Lunae</hi> 28. <hi>Martij.</hi> 1642.</head>
+               <p>IT is this day Ordered by the Commons now assem<g ref="char:EOLhyphen"/>bled in Parliament, that this Order be forthwith published in Print.</p>
+               <closer>
+                  <signed>H. Elsynge.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156593:4"/>
+            <head>To the Kings most Excellent Majestie.</head>
+            <head type="sub">The humble Petition of the Citizens of <hi>York,</hi> delivered to his Majesty by the High Sheriffe of <hi>YORKE.</hi>
+            </head>
+            <opener>
+               <salute>Most Gracious Soveraigne,</salute>
+            </opener>
+            <p>WEe your Majesties loyall and obedi<g ref="char:EOLhyphen"/>ent Subjects, doe most humbly sup<g ref="char:EOLhyphen"/>plicate your Highnesse to looke with compassion upon the Protestant Subjects of <hi>Ireland,</hi> that lye weltring in their own blood, most inhumanly shed by the bloody cruelty of the Popish Rebels, who have already in a manner, eradicated the Protestant Religion, your Majesties Soveraignty, and the <hi>English</hi> Nation our of that Kingdome.</p>
+            <p>And with like compassion, to looke upon your Ma<g ref="char:EOLhyphen"/>jesties Subjects of <hi>England;</hi> whose just feares of the like calamity, aily expected, doe make them (in a mea<g ref="char:EOLhyphen"/>sure) partakers of them before they fall.</p>
+            <p>Which miseries present, and dangerous eminent, can neither be prevented, nor redressed, if these distances of place, and differences of Councels, doe continue be<g ref="char:EOLhyphen"/>tweene your Majesty, and your Majesties great Councell the Parliament.</p>
+            <p>And therefore your Majesties Petitioners, doe hum<g ref="char:EOLhyphen"/>bly supplicate, that your Majesty will be pleased to reconcile the displeasures conceived against your Loy<g ref="char:EOLhyphen"/>all Subjects of this Realme (represented by the Par<g ref="char:EOLhyphen"/>liament) vnto whose Religious and faithfull Coun<g ref="char:EOLhyphen"/>cels, as we have referred our selves, so we doe most Humbly desire your Majesty to vouchsafe your Princ<g ref="char:EOLunhyphen"/>ly eare, and personall presence. That by their advice,
+<pb facs="tcp:156593:4"/>your Majesties piety and wisdome may prevent the dangers, that in these distracted times, doe threaten the destruction of Religion, Lawes, Liberties, and Lives of your perplexed Subjects.</p>
+            <p>And in particular, they humbly pray your Maje<g ref="char:EOLhyphen"/>sties consent to passe an Act, prepared by the Parlia<g ref="char:EOLhyphen"/>ment, for supply of money, for payment of the For<g ref="char:EOLhyphen"/>ces entertained to subdue the Rebels of <hi>Ireland,</hi> and for payment of the Billet-money, due unto this Coun<g ref="char:EOLhyphen"/>try.</p>
+            <closer>
+               <hi>And your Petitioners shall humbly pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, &amp;c.</hi>
+            </closer>
+         </div>
+         <div type="text">
+            <head>
+               <hi>Die Jovis</hi> 24. <hi>Martij.</hi> 1641.</head>
+            <p>WHereas the Bill of Tonn<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge and Poun<g ref="char:EOLhyphen"/>dage is hhas day expired, and a new Bill past both Houses for the continuance of those payments, untill the third day of <hi>May</hi> which cannot as yet receive the Royall Assent, in regard of the remotenesse of his Majesties person from the Par<g ref="char:EOLhyphen"/>liament. Which <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by that Bill, are to be imployed for the necessary gu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rding of the Seas, and defence of the Common-wealth▪ It is ther<g ref="char:EOLhyphen"/>fore Ordered by the Commons now assembled in Par<g ref="char:EOLhyphen"/>liament, that the severall Officers belonging to the Custome-house, both in the Port in <hi>London,</hi> and the out Ports, doe not permit any Merchant or other, to lade or unlade any Goods or Marchandizes, before such persons doe first <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tries thereof in the Custome-house: And it is also declared by the said Commons, That such Officers upon the respective entry made by any Merchant, as aforesaid, shall inti<g ref="char:EOLhyphen"/>mate
+<pb facs="tcp:156593:5"/>to such Merchant; That it is the advise of the Commons for the better ease of the said Merchants; And in regard the respective duties will relate and be<g ref="char:EOLhyphen"/>come due, as from this day; That the said Merchants upon entry of their Goods, as usually they did, when a Law was in force to that purpose, would deposite so much money as the severall Customes will amount unto, in the hands of such Officers, to be by them ac<g ref="char:EOLhyphen"/>compted to his Majesty, as the respective Customes due by the said Bill, when the said Bill shall have the Royall Assent; Or otherwise His Majesty refusing the passing thereof, the said money's to be restored up<g ref="char:EOLhyphen"/>on demand unto the severall Merchants respectively.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parliam. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="license" subtype="order_to_print">
+            <p>Ordered that the Collectors of the Customes doe forthwith dispersc Copies of these Or<g ref="char:EOLhyphen"/>ders in all the out Ports.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parliam. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
